@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Highscholl student
+I'm Highschool student
 <!--
 **acbd3002/acbd3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
